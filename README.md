@@ -1,6 +1,6 @@
 # IA - Travel Sales Problem (TSP)
 
-Trabalho realizado no 5º período de Ciência da Computação no Instituto Federal de Minas Gerais (IFMG) - Campus Formiga para a disciplina de Inteligência Artificial. Resolvendo o TSP utilizando Hill Climbing e Simulated Annealing.
+Resolvendo o TSP utilizando Hill Climbing e Simulated Annealing. Trabalho realizado no 5º período de Ciência da Computação no Instituto Federal de Minas Gerais (IFMG) - Campus Formiga para a disciplina de Inteligência Artificial.
 
 - Integrantes:
 	- Bruno Tomé
