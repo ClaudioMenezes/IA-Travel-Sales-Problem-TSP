@@ -6,4 +6,5 @@ Resolvendo o TSP utilizando Hill Climbing e Simulated Annealing. Trabalho realiz
 - Bruno Tomé
 - Cláudio Menezes
 
+#### Instruções Para Compilar
 Para compilar abra o terminal, vá até o diretório src, digite "javac Main.java" e logo depois "java Main"
